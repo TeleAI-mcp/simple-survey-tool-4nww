@@ -1,2 +1,3 @@
-# simple-survey-tool-4nww
-Automated issue comment bot repository
+# Simple Survey Tool 4Nww
+
+Automated issue comment bot repository.
